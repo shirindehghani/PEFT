@@ -1,7 +1,6 @@
 # PEFT
 
-
-Unoficial implementation of PEFT (LoRa, QLoRa and Prefix TUning)
+Unoficial implementation of PEFTs (LoRa, QLoRa and Prefix TUning)
 
 ref:
 ## LoRa
