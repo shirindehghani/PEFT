@@ -5,12 +5,12 @@ Unoficial implementation of PEFT (LoRa, QLoRa and Prefix TUning)
 
 ref:
 ## LoRa
-@article{hu2021lora,
+-- @article{hu2021lora,
   title={Lora: Low-rank adaptation of large language models},
   author={Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu},
   journal={arXiv preprint arXiv:2106.09685},
   year={2021}
-}
+} --
 ## QLoRa
 @article{dettmers2023qlora,
   title={Qlora: Efficient finetuning of quantized llms},
