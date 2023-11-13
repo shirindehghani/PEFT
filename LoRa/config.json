@@ -1,0 +1,12 @@
+{
+    "EPOCHS":8,
+    "LEARNING_RATE":2e-05,
+    "TRAIN_BATCH_SIZE":8,
+    "TEST_BATCH_SIZE":8,
+    "WARMUP_STEPS":500,
+    "WEIGHT_DECAY":0.01,
+    "LOGGING_STEPS":200,
+    "predictions_model":"./models/",
+    "tokenizer":"./models/",
+    "training_model":"ElKulako/cryptobert"
+}
